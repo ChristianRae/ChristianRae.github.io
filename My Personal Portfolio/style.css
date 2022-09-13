@@ -661,7 +661,10 @@ span{
     font-weight: 600;
     margin: 0.8rem 0;     
    }
-    }
+   .about-text{
+    text-align: left;   
+   }
+ }
    
 
    @media (max-width:450px){
@@ -714,7 +717,7 @@ span{
 
     .about-text{
         font-size: 1rem;
-        margin: 0 auto;   
+        text-align: left;   
     }
     .about-img img {
         height: 100%;
